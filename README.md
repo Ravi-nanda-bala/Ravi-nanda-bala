@@ -1,4 +1,4 @@
-### Hi there,i'm Ravi-nanda-bala 👋
+### Hi there, I'm Ravi-nanda-bala 👋
 
 - 🔭 I’m currently working on MERN-stack projects
 - 🌱 I’m currently learning Data structures
