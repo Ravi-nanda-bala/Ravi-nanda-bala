@@ -1,5 +1,5 @@
 ### Hi there, I'm Ravi-nanda-bala 👋
-
+<h1 align="center">Hi 👋, I am Ravi-nanda-bala</h1>
 - 🔭 I’m currently working on MERN-stack projects
 - 🌱 I’m currently learning Data structures & Algorithms
 - 📫 How to reach me: ravinandabala.nt@gmail.com
